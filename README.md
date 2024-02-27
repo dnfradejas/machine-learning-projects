@@ -1,2 +1,2 @@
 # machine-learning-projects
-Some machine learning projects experimented.
+Some machine learning projects experimented with.
